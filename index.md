@@ -12,4 +12,4 @@ _DSC coding test_
 - sun
 
 [https://onlineacademiccommunity.uvic.ca/dsc/workshops/](url)
-[about-uvic-720x405](src)
+![about-uvic-720x405](src)
