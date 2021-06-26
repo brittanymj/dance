@@ -11,4 +11,4 @@ _DSC coding test_
 - outside 
 - sun
 
-[https://onlineacademiccommunity.uvic.ca/dsc/workshops/]
+[https://onlineacademiccommunity.uvic.ca/dsc/workshops/](url)
